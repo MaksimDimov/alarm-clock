@@ -12,4 +12,4 @@ Hello! This project is a digital alarm clock. ![image](https://github.com/Maksim
 4)When the alarm time is reached, the alarm sound will play.
 
 ## Demo
-
+You can try this alarm-clock if you will click [here](https://maksimdimov.github.io/alarm-clock/)
